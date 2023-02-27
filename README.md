@@ -10,8 +10,8 @@ HTML
 CSS
 JavaScript
   ```
-Setup
-To run this project, simply download the code and open the index.html file in your browser. The app will automatically load, and you can start searching for weather information.
+#### Setup
+To run this project, simply download the code and open the index.html file in your browser. The app will automatically load, and you can start searching for weather information or using link <URL https://mrwednesday33.github.io/weather-app/>.
 
 ##### Features:
 User-friendly interface

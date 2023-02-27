@@ -1,2 +1,21 @@
-# weather-app
-cs50x final project
+This is a simple weather app that allows users to search for weather information of a location. Users can enter a city name or zip code in the search box, and the app will display the current temperature, weather description, humidity, and wind speed of the location.
+
+Technologies Used
+HTML
+CSS
+JavaScript
+Setup
+To run this project, simply download the code and open the index.html file in your browser. The app will automatically load, and you can start searching for weather information.
+
+Features
+User-friendly interface
+Real-time weather information
+Responsive design
+Easy-to-use search function
+How to Use
+Open the app in your browser.
+Enter a city name or zip code in the search box.
+Press the search button.
+The app will display the current temperature, weather description, humidity, and wind speed of the location.
+Credits
+This project was built by Clement Lai. Feel free to use this project for educational purposes.
